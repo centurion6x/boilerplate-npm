@@ -2,6 +2,7 @@
 	
 	"name": "fcc-learn-npm-package-json",
 	"author": "gamunu bandara",
+	"description": "This is a test project to learn node.js development.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
