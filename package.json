@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "gamunu bandara",
 	"description": "This is a test project to learn node.js development.",
+	"keywords": ["freecodecamp", "training", "nodejs", "backend package"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
