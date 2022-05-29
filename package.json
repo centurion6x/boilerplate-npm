@@ -1,6 +1,7 @@
 {
-	"author": "gamunu bandara",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "gamunu bandara",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
